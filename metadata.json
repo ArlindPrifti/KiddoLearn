@@ -1,0 +1,8 @@
+{
+  "name": "KiddoLearn: Numbers & Animals",
+  "description": "An interactive learning app for kids to master counting (1-100), the alphabet, and animal names/sounds using Gemini TTS, Image Editing, and Veo Video Generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
